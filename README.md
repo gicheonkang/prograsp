@@ -1,15 +1,15 @@
 <div align="center">
-<h1>PROGrasp: <br>Pragmatic Human-Robot Communication for Object Grasping</h1>
+<h1>PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h1>
 
 **[Gi-Cheon Kang][2], &nbsp; [Junghyun Kim][3], &nbsp; [Jaein Kim][4], &nbsp; [Byoung-Tak Zhang][5]** <br>
 
-**[ICRA 2024][16] ([Paper][1])**
+**[ICRA 2024][6] ([Paper][1])**
 </div>
 
 
 ## Overview
 <video playsinline autoplay muted loop style="width: 100%" class="webby">
-    <source src="./demo.mp4" type="video/mp4"></source>
+    <source src="demo.mp4" type="video/mp4"></source>
 </video>
 
 
