@@ -8,9 +8,7 @@
 
 
 ## Overview
-<video playsinline autoplay muted loop style="width: 100%" class="webby">
-    <source src="demo.mp4" type="video/mp4"></source>
-</video>
+<video playsinline autoplay muted loop style="width: 100%" class="webby" src="./demo.mp4"></video>
 
 
 
