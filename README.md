@@ -7,10 +7,8 @@
 </div>
 
 
-## Overview
-
-
-<video autoplay loop muted src="https://github.com/gicheonkang/prograsp/assets/23380257/5df0071c-26a0-45f5-872b-1c7b7ba6536c"></video>
+## Demo Video
+<video autoplay="true" loop="true" src="https://github.com/gicheonkang/prograsp/assets/23380257/5df0071c-26a0-45f5-872b-1c7b7ba6536c"></video>
 
 
 
