@@ -12,6 +12,16 @@
 
 
 
+Download Data
+----------------------
+Download the preprocessed and raw data. Simply run the following scripts. 
+```shell
+chmod +x scripts/download_data.sh
+./scripts/download_data.sh
+```
+
+
+
 Pre-trained Checkpoints
 --------------------------------------
 Please download the checkpoints below.
