@@ -12,7 +12,15 @@
 
 
 
+Pre-trained Checkpoints
+--------------------------------------
+Please download the checkpoints below.
 
+| Model | Link |
+|:-------:|:---------:|
+|Visual Grounding | [Download](https://www.dropbox.com/scl/fi/61b3ty5d8xzunqc9rmubb/vg.pt?rlkey=3sd8yjmlg6e8t4jwwauv9j1he&dl=0)|
+|Question Generation |[Download](https://www.dropbox.com/scl/fi/qiehwcmcwxgl0c1ayjwod/q_gen.pt?rlkey=s89qkvavw8bbslc00we2n23a3&dl=0)|
+|Answer Interpretation | [Download](https://www.dropbox.com/scl/fi/x4lasshsixnovwa6sktju/a_int.pt?rlkey=3w6nze2w82th2fd8o2s72gdi2&dl=0)|
 
 
 
@@ -27,20 +35,6 @@ If you use this code or preprocessed data in your research, please consider citi
   year={2023}
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 License
 -------
