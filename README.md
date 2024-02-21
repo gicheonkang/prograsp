@@ -6,7 +6,7 @@
 **[ICRA 2024][6] ([Paper][1])**
 </div>
 
-This repository contains the pytorch implementation for the ICRA'24 paper titled "PROGrasp: Pragmatic Human-Robot Communication for Object Grasping". The repository is now under construction, we will release the source code soon.
+This repository contains the pytorch implementation for the ICRA'24 paper titled "PROGrasp: Pragmatic Human-Robot Communication for Object Grasping". The repository is now under construction, and we will release the source code soon.
 
 
 
