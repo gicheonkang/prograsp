@@ -59,7 +59,7 @@ MIT License
 
 
 
-[1]: https://arxiv.org/abs/2205.12502
+[1]: https://arxiv.org/abs/2309.07759
 [2]: https://gicheonkang.com
 [3]: https://jhkim-snu.github.io
 [4]: https://bi.snu.ac.kr/
