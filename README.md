@@ -17,6 +17,27 @@ This repository contains the pytorch implementation for the ICRA'24 paper titled
 
 
 
+Setup and Dependencies
+----------------------
+The source code is based on PyTorch v1.9.1+, CUDA 11+ and CuDNN 7+. Anaconda/Miniconda is the recommended to set up this codebase: <br>
+
+1. Install Anaconda or Miniconda distribution based on Python3.7+ from their [downloads' site][8].
+2. Clone this repository and create an environment:
+
+```shell
+git clone https://www.github.com/gicheonkang/gst-visdial
+conda create -n prograsp python=3.7.16 -y
+
+# activate the environment and install all dependencies
+conda activate prograsp
+pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip install -r requirements.txt
+```
+
+If you have trouble installing the above, please consult [OFA repository][7]. The repository has rich installation know-how.  
+
+
+
 Download Data
 ----------------------
 Download the preprocessed and raw data. Simply run the following scripts. 
@@ -51,6 +72,11 @@ If you use this code or preprocessed data in your research, please consider citi
 }
 ```
 
+Acknowledgements
+-----------------
+We use [OFA][7] as reference code. Thanks!
+
+
 License
 -------
 MIT License
@@ -65,3 +91,5 @@ MIT License
 [4]: https://bi.snu.ac.kr/
 [5]: https://bi.snu.ac.kr/~btzhang/
 [6]: https://2024.ieee-icra.org
+[7]: https://github.com/OFA-Sys/OFA
+[8]: https://conda.io/docs/user-guide/install/download.html
