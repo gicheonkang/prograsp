@@ -59,6 +59,13 @@ Please download the checkpoints below.
 |Answer Interpretation | [Download](https://www.dropbox.com/scl/fi/x4lasshsixnovwa6sktju/a_int.pt?rlkey=3w6nze2w82th2fd8o2s72gdi2&dl=0)|
 
 
+Inference & Evaluation
+--------------------------------------
+We implement evaluation / inference codes for interactive object discovery. Please check the following jupyter notebook file.
+```shell
+OFA/prograsp_eval.ipynb
+```
+
 
 Citation
 -----------------------------
