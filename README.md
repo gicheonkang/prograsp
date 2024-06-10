@@ -6,7 +6,7 @@
 **[ICRA 2024][6] ([Paper][1])**
 </div>
 
-This repository contains the pytorch implementation for the ICRA'24 paper titled "PROGrasp: Pragmatic Human-Robot Communication for Object Grasping". The repository is now under construction, and we will release the source code soon.
+This repository contains the pytorch implementation for the ICRA'24 paper titled "PROGrasp: Pragmatic Human-Robot Communication for Object Grasping".
 
 
 
@@ -45,6 +45,19 @@ Download the preprocessed and raw data. Simply run the following scripts.
 chmod +x scripts/download_data.sh
 ./scripts/download_data.sh
 ```
+
+
+Train
+----------------------
+Run the following scripts if you want to train the visual grounding module. 
+```shell
+chmod +x OFA/run_scripts/prograsp/train_progrounding.sh
+./OFA/run_scripts/prograsp/train_progrounding.sh
+```
+
+If you want to see the data loader for each module, please see `OFA/data/mm_data/`.
+
+The file `OFA/utils/eval_utils.py` contains codes for evaluation 
 
 
 
