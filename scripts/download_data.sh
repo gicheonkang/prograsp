@@ -13,5 +13,4 @@ wget "https://www.dropbox.com/scl/fi/96yu9oiog07o2ih4zfx5g/test_seen_cluttered_c
 wget "https://www.dropbox.com/scl/fi/vifuzcfowk9rhoc2ygegc/test_unseen_common.tsv?rlkey=a31qshsnyb548zl9kt07b9fo2&dl=0" -O data/preprocessed/test_unseen_common.tsv
 
 # raw data
-wget "https://www.dropbox.com/scl/fi/c4dz8hswb3m42obt70h9e/images.zip?rlkey=s582l662h334qce5synojrx9q&dl=0" -O data/raw/images.zip
-wget "https://www.dropbox.com/scl/fi/v7kgg72awjljsapgvomq0/json.zip?rlkey=vdmlnzufllldeiits8lg0mp8t&dl=0" -O data/raw/json.zip
+wget "https://www.dropbox.com/scl/fi/qluzyyez6wujql4qeal31/im-dial.zip?rlkey=4v38dgncwi5yrvc4cr9wn2vky&dl=0" -O data/raw/raw.zip
