@@ -11,6 +11,9 @@ wget "https://www.dropbox.com/scl/fi/bk3v9bux7ll2o4w8q88pp/val_common.tsv?rlkey=
 wget "https://www.dropbox.com/scl/fi/8hmcbexm1uagrmem3nhw8/test_seen_common.tsv?rlkey=46dkp0wp0jrxovges28l9hmxn&dl=0" -O data/preprocessed/test_seen_common.tsv
 wget "https://www.dropbox.com/scl/fi/96yu9oiog07o2ih4zfx5g/test_seen_cluttered_common.tsv?rlkey=zsgfrkjw85z31lddbxfs1zi1h&dl=0" -O data/preprocessed/test_seen_cluttered_common.tsv
 wget "https://www.dropbox.com/scl/fi/vifuzcfowk9rhoc2ygegc/test_unseen_common.tsv?rlkey=a31qshsnyb548zl9kt07b9fo2&dl=0" -O data/preprocessed/test_unseen_common.tsv
+wget "https://www.dropbox.com/scl/fi/cgaowetz0tuvku30kmq43/val_vg.tsv?rlkey=p7jbd6t638qcq2ckdioq3ubhp&dl=0" -O data/preprocessed/val_vg.tsv
+wget "https://www.dropbox.com/scl/fi/jtsdyauxavd8k9g0rrz0s/val_questioner.tsv?rlkey=tadwzc8tfwo3xx0gadtinznnu&dl=0" -O data/preprocessed/val_questioner.tsv
+wget "https://www.dropbox.com/scl/fi/czirmetlsvf11i7c8gi3c/val_answerer.tsv?rlkey=55wm3xn2x2sxbzxxv85l9zm69&dl=0" -O data/preprocessed/val_answerer.tsv
 
 # raw data
 wget "https://www.dropbox.com/scl/fi/qluzyyez6wujql4qeal31/im-dial.zip?rlkey=4v38dgncwi5yrvc4cr9wn2vky&dl=0" -O data/raw/raw.zip
