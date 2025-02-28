@@ -25,7 +25,7 @@ The source code is based on PyTorch v1.9.1+, CUDA 11+ and CuDNN 7+. Anaconda/Min
 2. Clone this repository and create an environment:
 
 ```shell
-git clone https://www.github.com/gicheonkang/gst-visdial
+git clone https://www.github.com/gicheonkang/prograsp
 conda create -n prograsp python=3.7.16 -y
 
 # activate the environment and install all dependencies
