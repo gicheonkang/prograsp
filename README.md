@@ -13,7 +13,9 @@ This repository contains the pytorch implementation for the ICRA'24 paper titled
 
 
 ## Demo Video
-<video autoplay="true" loop="true" src="https://github.com/gicheonkang/prograsp/assets/23380257/5df0071c-26a0-45f5-872b-1c7b7ba6536c"></video>
+<video controls autoplay loop muted>
+  <source src="https://github.com/gicheonkang/prograsp/assets/23380257/5df0071c-26a0-45f5-872b-1c7b7ba6536c" type="video/mp4">
+</video>
 
 
 
